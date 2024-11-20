@@ -16,7 +16,7 @@ function App() {
   const [patientRegistry, setPatientRegistry] = useState(null);
   const [providerRegistry, setProviderRegistry] = useState(null);
   const [accessControl, setAccessControl] = useState(null);
-  const [medicalRecords, setMedicalRecords] = useState(null);
+  //const [medicalRecords, setMedicalRecords] = useState(null);
 
   // User role state
   const [isPatientRegistered, setIsPatientRegistered] = useState(false);
